@@ -165,7 +165,7 @@ stats](https://github-readme-stats.vercel.app/api?username=billal4b&show_icons=t
 <br>
 <a href="https://www.skype.com/en/">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Skype-bl.hossain-brightgreen"
     alt="bl.hossain"
   />
 </a>
