@@ -159,13 +159,13 @@ stats](https://github-readme-stats.vercel.app/api?username=billal4b&show_icons=t
 <a href="mailto:billal4b@gmail.com">
   <img style="margin: 5px"
     src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-billal4b%40gmail.com-brightgreen"
-    alt="emailAddress"
+    alt="billal4b@gmail.com"
   />
 </a>
 
-<a href="mailto:billal4h@gmail.com">
+<a href="https://www.skype.com/en/">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-billal4h%40gmail.com-brightgreen"
+    src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"
     alt="emailAddress"
   />
 </a>
