@@ -1,15 +1,14 @@
-![akashusr Github Banner](assets/akashusr.jpg)
-## Hi, I'm Akash Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" height="25px" alt="hi">
+![akashusr Github Banner](billal.jpg)
+## Hi, I'm Billal Hossain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" height="25px" alt="hi">
 <p>
   👑 I am Web Developer <br />
   🖊️ Love to write code <br />
   🎤 Like to share my knowledge <br />
-  🥅 2021 Goals: React, Node, Mongo, Next.js, Express.js
+  🥅 2021 Goals: Laravel, WordPress, PHP, MySQL
 </p><br/>
 
-![Profile views](https://gpvc.arturio.dev/akashusr)
 
-<p>I am a Full Stack developer, experience with web applications and building websites, who is passionate about making error-free websites with 100% client satisfaction. I have professional experience working with React, MongoDB, Node, Express and JavaScript. I am undergraduate honours in G&E. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
+<p>I am a Web Developer, experience with web applications and building Web websites, who is passionate about making error-free websites with 100% client satisfaction. I have professional experience working with Laravel, WordPress, PHP, MySQL and JavaScript. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
