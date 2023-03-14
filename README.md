@@ -1,5 +1,5 @@
 ![akashusr Github Banner](billal.jpg)
-## Hi, I'm Billal Hossain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" height="25px" alt="hi">
+## Hi, I'm Billal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" height="25px" alt="hi">
 <p>
   👑 I am Web Developer <br />
   🖊️ Love to write code <br />
@@ -141,16 +141,16 @@
 <br/>
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billal4b&layout=compact) 
 
 ## ☕ Connect with me! 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akashusr/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/billal4b/)
 [![Facebook
-Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/akashusr/)
+Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/billal4b/)
 [![Instagram
-Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/akashusr/)
+Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/billal4b/)
 [![Twitter
-Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/akashusr)
+Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/billal4b)
 <br />
 
 ![GitHub
