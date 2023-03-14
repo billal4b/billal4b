@@ -163,9 +163,4 @@ stats](https://github-readme-stats.vercel.app/api?username=billal4b&show_icons=t
   />
 </a>
 <br>
-<a href="skype:bl.hossain?call">
-  <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Skype-bl.hossain-brightgreen"
-    alt="bl.hossain"
-  />
-</a>
+
