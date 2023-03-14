@@ -4,7 +4,7 @@
   👑 I am Web Developer <br />
   🖊️ Love to write code <br />
   🎤 Like to share my knowledge <br />
-  🥅 2021 Goals: Laravel, WordPress, PHP, MySQL
+  🥅 Skills : Laravel, WordPress, PHP, MySQL and JavaScript.
 </p><br/>
 
 
@@ -66,10 +66,10 @@
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.typescriptlang.org/" target="_blank">
+  <a style="margin: 5px" href="https://www.php.net/" target="_blank">
     <img
       style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="typescript"
       align="left"
       width="30"
