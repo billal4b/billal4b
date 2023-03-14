@@ -44,17 +44,6 @@
     />
   </a>
 
-  <a style="margin: 5px" href="https://tailwindcss.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
   <a style="margin: 5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
     <img
       style="margin: 5px"
@@ -66,61 +55,28 @@
     />
   </a>
 
+   <a style="margin: 5px" href="https://laravel.com/" target="_blank">
+    <img
+      style="margin: 5px"
+      src="https://worldvectorlogo.com/download/laravel-2.svg"
+      alt="Laravel"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+  
   <a style="margin: 5px" href="https://www.php.net/" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="typescript"
+      alt="PHP"
       align="left"
       width="30"
       height="30"
     />
   </a>
-
-  <a style="margin: 5px" href="https://reactjs.org/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="react"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://nodejs.org" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://expressjs.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.mongodb.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
+  
   <a style="margin: 5px" href="https://www.mysql.com/" target="_blank">
     <img
       style="margin: 5px"
