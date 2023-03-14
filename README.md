@@ -33,6 +33,7 @@
       height="30"
     />
   </a>
+  
   <a style="margin: 5px" href="https://getbootstrap.com" target="_blank">
     <img
       style="margin: 5px"
@@ -66,7 +67,7 @@
     />
   </a>
   
-     <a style="margin: 5px" href="https://wordpress.org/" target="_blank">
+   <a style="margin: 5px" href="https://wordpress.org/" target="_blank">
     <img
       style="margin: 5px"
       src="https://static.cdnlogo.com/logos/w/65/wordpress.svg"
