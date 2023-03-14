@@ -73,8 +73,8 @@
       src="https://static.cdnlogo.com/logos/w/65/wordpress.svg"
       alt="WordPress"
       align="left"
-      width="30"
-      height="30"
+      width="50"
+      height="50"
     />
   </a>
   
@@ -156,49 +156,8 @@
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.figma.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 
-  <a style="margin: 5px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 
-  <a style="margin: 5px" href="https://www.photoshop.com/en" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 </p>
 
 <br/>
