@@ -58,8 +58,19 @@
    <a style="margin: 5px" href="https://laravel.com/" target="_blank">
     <img
       style="margin: 5px"
-      src="https://worldvectorlogo.com/download/laravel-2.svg"
+      src="https://laravel.com/img/logomark.min.svg"
       alt="Laravel"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+  
+     <a style="margin: 5px" href="https://wordpress.org/" target="_blank">
+    <img
+      style="margin: 5px"
+      src="https://static.cdnlogo.com/logos/w/65/wordpress.svg"
+      alt="WordPress"
       align="left"
       width="30"
       height="30"
