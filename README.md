@@ -73,8 +73,8 @@
       src="https://static.cdnlogo.com/logos/w/65/wordpress.svg"
       alt="WordPress"
       align="left"
-      width="50"
-      height="50"
+      width="30"
+      height="30"
     />
   </a>
   
@@ -105,29 +105,6 @@
       style="margin: 5px"
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://heroku.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.gnu.org/software/bash/"
-    target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
       align="left"
       width="30"
       height="30"
