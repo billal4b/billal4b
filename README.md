@@ -154,11 +154,18 @@ Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=19
 <br />
 
 ![GitHub
-stats](https://github-readme-stats.vercel.app/api?username=akashusr&show_icons=true)
+stats](https://github-readme-stats.vercel.app/api?username=billal4b&show_icons=true)
 ## 📧 For Business Inquiries:
-<a href="mailto:akashahmed5724@gmail.com">
+<a href="mailto:billal4b@gmail.com">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-akashahmed5724%40gmail.com-brightgreen"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-billal4b%40gmail.com-brightgreen"
+    alt="emailAddress"
+  />
+</a>
+
+<a href="mailto:billal4h@gmail.com">
+  <img style="margin: 5px"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-billal4h%40gmail.com-brightgreen"
     alt="emailAddress"
   />
 </a>
