@@ -163,7 +163,7 @@
 <br>
 [EditShare (Media Workflow, Editing Solutions)](https://editshare.com/) WordPress
 <br>
-[Adaptive Surface Technologies)](https://www.adaptivesurface.tech/) WordPress
+[Adaptive Surface Technologies](https://www.adaptivesurface.tech/) WordPress
 
 
 
