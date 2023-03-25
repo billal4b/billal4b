@@ -153,7 +153,7 @@
 <br>
 [D.H Haber & Son.Inc (E-commerce)](https://habersilver.com/) Laravel
 <br>
-[gelsight (E-commerce)](https://www.gelsight.com/) WordPress
+[GelSight (E-commerce)](https://www.gelsight.com/) WordPress
 <br>
 [The Huntress New York (E-commerce)](https://www.thehuntressny.com/) Shopify
 <br>
