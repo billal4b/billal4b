@@ -153,17 +153,16 @@
 <br>
 [D.H Haber & Son.Inc (E-commerce)](https://habersilver.com/) Laravel
 <br>
-[IQS Social Development](https://socialdevelopment.iqsbd.com/)
+[gelsight (E-commerce)](https://www.gelsight.com/) WordPress
 <br>
-[Zyter](https://www.zyter.com/)
+[The Huntress New York (E-commerce)](https://www.thehuntressny.com/) Shopify
 <br>
-[EditShare](https://editshare.com/)
+[Zyter (Industry Leading Integration Platform)](https://www.zyter.com/) WordPress
 <br>
-[gelsight](https://www.gelsight.com/)
+[Conversica (Leading AI Assistants Business)](https://www.conversica.com/) WordPress
 <br>
-[The Huntress New York](https://www.thehuntressny.com/) Shopify
-<br>
-[IQS Social Development](https://socialdevelopment.iqsbd.com/)
+[EditShare (Media Workflow, Editing Solutions)](https://editshare.com/) WordPress
+
 
 
 
