@@ -143,30 +143,6 @@
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billal4b&layout=compact) 
 
-## ✔️✔️ Project Involvement! 
-
-[Mohammadpur Preparatory School & College. (Accounts) ](https://schoolingaidbd.net/accounts/Authentication/SignIn) Laravel
-<br>
-[Mohammadpur Preparatory School & College. (School Management) ](https://schoolingaidbd.net/mpsc/Authentication/Login) Laravel
-<br>
-[IQSBD (Online Class Management System)](https://iqsbd.com/) Laravel
-<br>
-[D.H Haber & Son.Inc (E-commerce)](https://habersilver.com/) Laravel
-<br>
-[GelSight (E-commerce)](https://www.gelsight.com/) WordPress
-<br>
-[The Huntress New York (E-commerce)](https://www.thehuntressny.com/) Shopify
-<br>
-[Zyter (Industry Leading Integration Platform)](https://www.zyter.com/) WordPress
-<br>
-[Conversica (Leading AI Assistants Business)](https://www.conversica.com/) WordPress
-<br>
-[EditShare (Media Workflow, Editing Solutions)](https://editshare.com/) WordPress
-<br>
-[Adaptive Surface Technologies](https://www.adaptivesurface.tech/) WordPress
-
-
-
 
 ## ☕ Connect with me! 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/billal4b/)
