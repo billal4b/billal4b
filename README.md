@@ -145,11 +145,23 @@
 
 ## ✔️✔️ Project Involvement! 
 
-[Mohammadpur Preparatory School & College. (Accounts) ](https://schoolingaidbd.net/accounts/Authentication/SignIn))
+[Mohammadpur Preparatory School & College. (Accounts) ](https://schoolingaidbd.net/accounts/Authentication/SignIn) Laravel
 <br>
-[Mohammadpur Preparatory School & College. (School Management) ](https://schoolingaidbd.net/mpsc/Authentication/Login)
+[Mohammadpur Preparatory School & College. (School Management) ](https://schoolingaidbd.net/mpsc/Authentication/Login) Laravel
 <br>
-[IQSBD (Online Class Management System)](https://iqsbd.com/)
+[IQSBD (Online Class Management System)](https://iqsbd.com/) Laravel
+<br>
+[D.H Haber & Son.Inc (E-commerce)](https://habersilver.com/) Laravel
+<br>
+[IQS Social Development](https://socialdevelopment.iqsbd.com/)
+<br>
+[Zyter](https://www.zyter.com/)
+<br>
+[EditShare](https://editshare.com/)
+<br>
+[gelsight](https://www.gelsight.com/)
+<br>
+[The Huntress New York](https://www.thehuntressny.com/) Shopify
 <br>
 [IQS Social Development](https://socialdevelopment.iqsbd.com/)
 
